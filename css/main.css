@@ -12,10 +12,11 @@
    ========================================================================== */
 
   html {
-    color: rgb(0, 0, 0);
+    color: rgb(173, 173, 173);
     font-size: 4em;
     line-height: 1.4;
     padding:1.5rem;
+    background-color: #222;
   }
   main {
     display: grid;
