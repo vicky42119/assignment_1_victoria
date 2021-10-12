@@ -18,7 +18,6 @@
     padding:1.5rem;
   }
   main {
-    .container {
       display: grid;
       grid-template-columns: 0.5fr 0.5fr;
       grid-template-rows: 100px 6fr 1fr;
