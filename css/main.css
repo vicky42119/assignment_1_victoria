@@ -18,17 +18,20 @@
     padding:1.5rem;
     background-color: #222;
   }
-  main {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(2fr, 200px);
-    grid-column-gap: 20px;
-    grid-row-gap: 20px;
-    }
+  
+  main { 
+    margin: 80px;
+  }    
+  
+  
+.parent {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 1fr 4fr 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+      }
 
-
-    
-    
 
 /*
  * Remove text-shadow in selection highlight:
