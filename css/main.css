@@ -17,8 +17,7 @@
     line-height: 1.4;
     padding:1.5rem;
   }
-  main 
-  .parent {
+  main {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: 1fr 4fr 1fr;
