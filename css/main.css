@@ -17,8 +17,7 @@
     line-height: 1.4;
     padding:1.5rem;
   }
-  main 
-    .container {
+  main { 
       display: grid;
       grid-template-columns: 1fr 2fr;
       grid-template-rows: 100px 1fr 100px;
